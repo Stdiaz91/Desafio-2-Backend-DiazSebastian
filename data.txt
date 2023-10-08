@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Pistola",
+    "description": "Pistola Bersa 9mm",
+    "price": 346000,
+    "thumbnail": "https://www.armeriacanigo.com.ar/wp-content/uploads/2160_1.jpg",
+    "code": 1234,
+    "stock": 4,
+    "id": 1
+  }
+]
